@@ -1,0 +1,10 @@
+/storage/*
+!/storage/.gitkeep
+!/storage/logs/
+/storage/logs/*
+!/storage/logs/.gitkeep
+/vendor/
+.env
+.DS_Store
+.idea/
+.vscode/

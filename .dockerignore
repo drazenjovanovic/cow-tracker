@@ -1,0 +1,8 @@
+vendor/
+storage/sessions/
+storage/downloads/
+storage/database.sqlite
+.env
+.git/
+.idea/
+.vscode/
